@@ -40,7 +40,8 @@ def home():
     <body>
         <div class="container">
             <h1>Dockerized Web Application</h1>
-            <p>CodSoft DevOps Internship - Conflict Branch</p>
+            <p>CodSoft DevOps Internship - Git & GitHub Workflow</p>
+            <p>Merge conflict successfully resolved!</p>
             <p>Application successfully managed using Git and GitHub!</p>
         </div>
     </body>

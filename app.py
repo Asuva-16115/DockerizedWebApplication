@@ -43,6 +43,7 @@ def home():
             <p>CodSoft DevOps Internship - Git & GitHub Workflow</p>
             <p>Merge conflict successfully resolved!</p>
             <p>Application successfully managed using Git and GitHub!</p>
+            <p>CI/CD Pipeline deployed with GitHub Actions</p>
         </div>
     </body>
     </html>
